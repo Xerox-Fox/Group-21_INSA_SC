@@ -15,8 +15,8 @@ log monitoring, threat detection, and alerting without the overhead of
 enterprise tools.
 
 Our solution will enable smaller organizations to monitor their systems,
-detect suspicious activity early, and respond to incidents quickly ---
-improving their security posture at a fraction of the cost.
+detect suspicious activity early, and respond to incidents quickly improving 
+their security posture at a fraction of the cost.
 
 ## 2. Problem Statement
 
