@@ -1,4 +1,4 @@
-# Project Proposal: SIEM Lite -- Affordable & Lightweight Security Information and Event Management System
+# SIEM Lite: Affordable & Lightweight Security Information and Event Management System
 
 ## 1. Executive Summary
 
