@@ -1,92 +1,99 @@
-# SIEM Lite: Affordable & Lightweight Security Information and Event Management System
+# AI-Driven Intrusion Detection & Data Protection System
 
 ## 1. Executive Summary
 
-Cybersecurity threats are increasing in both frequency and
-sophistication, yet Small and Medium-sized Businesses (SMBs), startups,
-NGOs, and individual developers often lack access to affordable and
-easy-to-use security monitoring tools. Enterprise SIEM solutions such as
-Splunk, IBM QRadar, and ArcSight are expensive, complex, and require
-skilled engineers to operate.
+Cyberattacks are growing in scale and sophistication, putting sensitive data at risk even for organizations with basic defenses in place. Traditional intrusion detection systems (IDS) are often reactive, generating alerts only after a breach has occurred. By then, attackers may already have access to confidential data.
 
-SIEM Lite aims to close this gap by delivering a lightweight,
-cost-effective, and user-friendly SIEM platform that provides real-time
-log monitoring, threat detection, and alerting without the overhead of
-enterprise tools.
+This project proposes an AI-driven cybersecurity system that not only detects malicious activity in real time by analyzing server logs with machine learning, but also protects sensitive data by encrypting it with AES before attackers can exfiltrate it. At the same time, the system alerts the blue team with detailed attack information, enabling faster incident response.
 
-Our solution will enable smaller organizations to monitor their systems,
-detect suspicious activity early, and respond to incidents quickly improving 
-their security posture at a fraction of the cost.
+The solution bridges the gap between detection and defense, making servers self-protective by ensuring that sensitive data remains secure even during an ongoing attack.
 
 ## 2. Problem Statement
 
-- Rising Cyber Threats: SMBs and small IT teams face constant risks
-like brute-force attacks, phishing, SQL injections, ransomware, and
-insider threats.
-- High Costs: Commercial SIEM solutions can cost thousands of dollars
-per month, pricing out smaller organizations.
-- Complexity: Open-source SIEMs require extensive configuration,
-maintenance, and technical expertise.
-- Lack of Accessibility: There is a shortage of simple, plug-and-play
-monitoring tools for non-enterprise environments.
+Delayed Detection: Logs are often reviewed manually, causing delays in threat identification.
 
-## 3. Proposed Solution: SIEM Lite
+Advanced Threats: Zero-day exploits and new attack vectors bypass signature-based IDS/IPS.
 
-SIEM Lite will be a modular, cloud-ready, and easy-to-install SIEM
-system with core features tailored for smaller teams:
+Unprotected Data: Once attackers gain access, data is often exposed without encryption.
+
+Overwhelmed Security Teams: High false positive rates and alert fatigue reduce effectiveness.
+
+## 3. Proposed Solution
+
+The AI-Driven Intrusion Detection & Data Protection System combines real-time monitoring, machine learning-based detection, and AES encryption to provide proactive security.
 
 Key Features (MVP):
-1. Log Collection -- Collect logs from servers, endpoints, firewalls,
-web applications; support syslog, REST API, and file upload ingestion.
-2. Parsing & Normalization -- Convert raw logs into a structured format
-for easy analysis.
-3. Event Correlation -- Rule-based detection for brute-force login
-attempts, unauthorized file access, SQL injection patterns, XSS
-attempts.
-4. Real-time Alerting -- Email, Slack, Telegram, or Webhook
-notifications.
-5. Dashboard & Visualization -- Web-based UI to view events, alerts, and
-trends.
-6. Reporting -- Daily/weekly PDF or CSV summaries.
-7. Security -- Encrypted log transfer & role-based access.
+
+Log Collection – Ingests real-time server, application, and network logs.
+
+Preprocessing & Normalization – Extracts relevant features (IPs, failed logins, unusual patterns).
+
+Machine Learning Detection –
+
+Supervised ML for known attacks (e.g., brute-force, SQL injection).
+
+Unsupervised ML for anomaly/zero-day detection.
+
+Automated Protection – Encrypts sensitive files/databases with AES-256 when threats are confirmed.
+
+Real-time Alerts – Sends notifications via email, SMS, or dashboard with attacker details.
+
+Incident Logging – Stores attack data for forensic analysis and auditing.
 
 ## 4. Target Audience
 
-- Small to Medium Businesses (SMBs)
-- Non-profits & NGOs
-- Educational Institutions
-- Freelance Developers & IT Consultants
-- Startups in Developing Markets
+Small & Medium Businesses (SMBs) needing stronger server defense
+
+Startups and SaaS providers managing sensitive customer data
+
+NGOs and non-profits handling private donor/beneficiary information
+
+Educational institutions seeking proactive cybersecurity solutions
+
+Freelancers & developers hosting apps with valuable user data
 
 ## 5. Competitive Advantage
 
-- Affordability: Fraction of enterprise SIEM cost
-- Simplicity: Minimal setup, intuitive UI
-- Lightweight: Low resource requirements
-- Flexible Deployment: Cloud-hosted SaaS or on-premises
-- Customizable: Add new detection rules easily
+Proactive Security: Encrypts sensitive data automatically when under attack.
+
+AI-Driven Detection: Learns from logs to detect both known and unknown threats.
+
+Fast Response: Reduces time between detection and protection to near zero.
+
+Integration-Friendly: API-based, works alongside existing infrastructure.
+
+Scalable & Flexible: Can run on-premises or in the cloud.
 
 ## 6. Technology Stack
 
-- Backend: Python (FastAPI) or Node.js (Express)
-- Frontend: React.js + TailwindCSS
-- Database: MongoDB / PostgreSQL
-- Log Processing: Custom parser + optional ELK integration
-- Hosting: Docker-based, deployable to AWS / Azure / DigitalOcean
-- Security: TLS encryption, JWT authentication
+Backend: Python (ML engine, AES module), Node.js (optional API/dashboard)
+
+ML Libraries: Scikit-learn, TensorFlow, PyTorch
+
+Encryption: AES (via Python Cryptography library)
+
+Log Processing: ELK Stack (Elasticsearch, Logstash, Kibana) / custom parser
+
+Database: MySQL / MongoDB
+
+Alerting: SMTP (email), Twilio (SMS), WebSocket API (dashboard)
+
+Deployment: Docker / Kubernetes for scalability
 
 ## 7. Expected Outcomes
 
-- Enable SMBs and smaller organizations to detect cyber threats early
-- Provide a cost-effective alternative to enterprise SIEM tools
-- Improve global cybersecurity posture in under-served markets
-- Position SIEM Lite as a recognized niche leader for lightweight
-security monitoring
+Real-time detection of suspicious activities on servers
+
+Automated data encryption for maximum confidentiality during attacks
+
+Reduced risk of data exfiltration and breaches
+
+Faster incident response with actionable alerts for the blue team
+
+Stronger cyber resilience for organizations with limited resources
 
 ## 8. Conclusion
 
-SIEM Lite bridges the gap between costly, complex enterprise SIEMs and
-the real-world needs of smaller organizations. By focusing on
-simplicity, affordability, and core security features, this project can
-capture an untapped market and make cybersecurity accessible to more
-people.
+The AI-Driven Intrusion Detection & Data Protection System addresses modern cybersecurity needs by combining machine learning, real-time monitoring, and AES encryption into a unified solution. Unlike traditional IDS, it doesn’t just alert teams about threats — it actively defends sensitive data.
+
+By merging detection with defense, this system helps organizations stay one step ahead of attackers and ensures that critical data remains secure, even in the event of a successful intrusion.
