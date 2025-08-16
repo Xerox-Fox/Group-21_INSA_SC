@@ -1,4 +1,4 @@
-# AI-Driven Intrusion Detection & Data Protection System
+# NeuroCrypt: AI-Driven Intrusion Detection & Data Protection System
 
 ## 1. Executive Summary
 
