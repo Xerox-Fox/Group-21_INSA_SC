@@ -21,8 +21,6 @@
     pointer-events: none;
 }
 
-
-
 * {
     margin: 0;
     padding: 0;
@@ -64,25 +62,31 @@ body {
     overflow: hidden;
 }
 
+/* UPDATED HEADER STYLES - NAV LINKS CENTERED */
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 1rem 5rem;
     z-index: 999;
+    position: relative;
 }
 
 header h1 {
     margin: 0;
     font-size: 3rem;
     font-weight: 300;
+    flex: 1;
 }
 
+/* UPDATED NAV STYLES - CENTERED NAVIGATION */
 nav {
     display: flex;
     align-items: center;
     gap: 3rem;
-    margin-left: -5%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 nav a {
@@ -107,6 +111,9 @@ nav a:hover {
     font-weight: 500;
     transition: background-color 0.2s ease;
     cursor: pointer;
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
 }
 
 .btn-signing:hover {
@@ -125,7 +132,6 @@ nav a:hover {
     transition: background-position 0.3s ease-out; /* smooth + slower */
 }
 
-
 main {
     display: flex;
     flex-direction: column;
@@ -141,13 +147,12 @@ main {
     text-align: left; /* make sure text is left-aligned */
 }
 
-
 .tag-box {
     position: relative;
     width: 18rem;
     height: 2.5rem;
     border-radius: 50px;
-    background: linear-gradient(to right, #656565, #00BFFF, #009FFF, #0088FF, #757575, #656565);
+    background: linear-gradient(to right, #656565, #00BFFF, #009FFF, #0088FF, #757565, #656565);
     background-size: 200%;
     animation: animationGradient 2.5s linear infinite;
     box-shadow: 0 0 15px rgba(255, 255, 255, 0.3);

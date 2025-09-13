@@ -3,9 +3,69 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <title>NeuroCrypt</title>
 </head>
 <body>
-    <img src="D:\Group-21_INSA_SC\gradient.png" alt="gradient">
+    <!-- Animated background layers -->
+    <div class="animated-bg"></div>
+    <canvas id="particle-canvas"></canvas>
+
+    <div class="layer-blur"></div>
+
+    <div class="container">
+        <header>
+            <h1 data-aos="fade-down" data-aos-duration="1500" class="logo">NeuroCrypt</h1>
+
+            <nav>
+                <a data-aos="fade-down" data-aos-duration="1500" href="#">Doc</a>
+                <a data-aos="fade-down" data-aos-duration="2000" href="#">About</a>
+            </nav>
+
+            <button data-aos="fade-down" data-aos-duration="1500" class="btn-signing"  onclick='location.href="../auth/login.html"'>Sign In</button>
+        </header>
+        <main>
+            <div class="content">
+                <div data-aos="fade-zoom-in"
+                data-aos-easing="ease-in-back"
+                data-aos-delay="300"
+                data-aos-offset="0" data-aos-duration="1500" class="tag-box">
+                    <div class="tag">INTRODUCING &wedbar;</div>
+                </div>
+                <h2 data-aos="fade-zoom-in"
+                data-aos-easing="ease-in-back"
+                data-aos-delay="300"
+                data-aos-offset="0" data-aos-duration="2000">
+                    AI-Driven Intrusion Detection And<br>Data Protection System
+                </h2>
+
+                <p data-aos="fade-zoom-in"
+                data-aos-easing="ease-in-back"
+                data-aos-delay="300"
+                data-aos-offset="0" data-aos-duration="2500" class="description">
+                    Keep your data safe before attackers strike.
+                    AI-powered detection spots threats in real time, 
+                    while automatic encryption protects your most sensitive information.
+                    Get instant alerts, actionable insights, and seamless integration. 
+                    The smarter way to secure your applications.
+                </p>
+
+                <div data-aos="fade-zoom-in"
+                data-aos-easing="ease-in-back"
+                data-aos-delay="300"
+                data-aos-offset="0" data-aos-duration="300" class="buttons">
+                    <a href="#" class="btn-get-started">Documentation &gt;</a>
+                    <a href="../auth/signup.html" class="btn-signin-main">Get Started &gt;</a>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+    <script src="script.js"></script>
 </body>
 </html>
