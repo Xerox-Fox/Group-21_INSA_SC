@@ -7264,3 +7264,1881 @@
 2025-09-17 12:26:52,667 - INFO [ServerThread] Processing request from /10.10.34.12:8080
 2025-09-17 12:26:53,168 - INFO [ServerThread] Processing request from /10.10.34.13:8080
 2025-09-17 12:26:53,670 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:42:23,152 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:23,659 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:42:24,163 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:42:24,664 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:25,168 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:42:25,670 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:42:26,175 - WARNING [ServerThread] Connection broken for id 5021, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:42:26,684 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:27,192 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:27,706 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:42:28,208 - WARNING [ServerThread] Connection broken for id 6069, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:42:28,713 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:42:29,227 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:42:29,734 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:42:30,246 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:42:30,747 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:42:31,254 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:42:31,757 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:32,261 - WARNING [ServerThread] Connection broken for id 9384, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:42:32,762 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:42:33,264 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:33,766 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:42:34,271 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:34,776 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:35,279 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:42:35,780 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:42:36,284 - WARNING [ServerThread] Connection broken for id 2426, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:42:36,785 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:37,291 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:37,792 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:42:38,296 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:38,799 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:39,311 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:42:39,818 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:42:40,325 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:42:40,831 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:42:41,332 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:41,834 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:42:42,334 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:42,837 - WARNING [ServerThread] Connection broken for id 3197, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:42:43,338 - WARNING [ServerThread] Connection broken for id 8015, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:42:43,839 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:44,341 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:42:44,844 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:45,358 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:42:45,861 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:42:46,367 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:46,868 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:47,371 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:42:47,874 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:48,375 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:48,876 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:42:49,378 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:49,883 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:42:50,387 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:50,892 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:42:51,395 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:42:51,899 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:52,404 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:42:52,918 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:42:53,421 - WARNING [ServerThread] Connection broken for id 1840, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:42:53,924 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:42:54,425 - WARNING [ServerThread] Connection broken for id 8344, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:42:54,931 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:55,432 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:42:55,937 - WARNING [ServerThread] Connection broken for id 4577, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:42:56,439 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:56,940 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:42:57,446 - WARNING [ServerThread] Connection broken for id 8894, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:42:57,952 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:42:58,454 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:42:58,957 - WARNING [ServerThread] Connection broken for id 2290, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:42:59,462 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:42:59,965 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:43:00,468 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:00,971 - WARNING [ServerThread] Connection broken for id 5796, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:43:01,477 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:01,991 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:02,493 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:02,998 - WARNING [ServerThread] Connection broken for id 6826, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:43:03,501 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:04,003 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:04,515 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:43:05,024 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:05,525 - WARNING [ServerThread] Connection broken for id 5061, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:43:06,030 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:06,538 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:43:07,044 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:07,546 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:08,050 - WARNING [ServerThread] Connection broken for id 5078, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:43:08,555 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:09,075 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:09,582 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:43:10,083 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:10,585 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:43:11,094 - WARNING [ServerThread] Connection broken for id 1689, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:43:11,598 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:12,099 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:43:12,601 - WARNING [ServerThread] Connection broken for id 5533, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:43:13,103 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:13,607 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:14,108 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:43:14,615 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:15,124 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:15,631 - WARNING [ServerThread] Connection broken for id 7473, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:43:16,138 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:16,640 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:17,146 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:43:17,650 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:18,166 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:43:18,666 - WARNING [ServerThread] Connection broken for id 1934, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:43:19,169 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:19,672 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:20,174 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:20,679 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:21,179 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:21,682 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:22,186 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:22,691 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:23,194 - WARNING [ServerThread] Connection broken for id 2642, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:43:23,696 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:43:24,197 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:24,703 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:25,205 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:25,707 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:26,210 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:26,712 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:27,222 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:27,722 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:28,223 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:28,724 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:29,226 - WARNING [ServerThread] Connection broken for id 1876, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:43:29,731 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:30,235 - WARNING [ServerThread] Connection broken for id 9917, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:43:30,740 - WARNING [ServerThread] Connection broken for id 8551, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:43:31,241 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:43:31,745 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:32,247 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:32,749 - WARNING [ServerThread] Connection broken for id 1344, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:43:33,252 - WARNING [ServerThread] Connection broken for id 4593, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:43:33,754 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:34,256 - WARNING [ServerThread] Connection broken for id 3504, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:43:34,758 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:35,260 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:35,762 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:36,266 - WARNING [ServerThread] Connection broken for id 3129, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:43:36,770 - WARNING [ServerThread] Connection broken for id 6520, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:43:37,271 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:43:37,779 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:38,287 - WARNING [ServerThread] Connection broken for id 1836, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:43:38,790 - WARNING [ServerThread] Connection broken for id 6251, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:43:39,294 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:39,799 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:43:40,309 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:43:40,813 - WARNING [ServerThread] Connection broken for id 5698, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:43:41,317 - WARNING [ServerThread] Connection broken for id 7302, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:43:41,823 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:42,326 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:42,828 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:43,330 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:43,832 - WARNING [ServerThread] Connection broken for id 9865, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:43:44,334 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:44,836 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:43:45,340 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:45,847 - WARNING [ServerThread] Connection broken for id 6399, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:43:46,348 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:46,849 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:47,353 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:47,855 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:43:48,356 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:48,861 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:49,363 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:49,868 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:50,373 - WARNING [ServerThread] Connection broken for id 9066, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:43:50,876 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:51,378 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:51,883 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:43:52,388 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:52,895 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:53,400 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:53,902 - WARNING [ServerThread] Connection broken for id 7723, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:43:54,409 - WARNING [ServerThread] Connection broken for id 6661, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:43:54,911 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:43:55,413 - WARNING [ServerThread] Connection broken for id 8988, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:43:55,922 - WARNING [ServerThread] Connection broken for id 8055, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:43:56,424 - WARNING [ServerThread] Connection broken for id 5582, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:43:56,929 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:57,431 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:43:57,946 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:58,449 - WARNING [ServerThread] Connection broken for id 3304, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:43:58,953 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:43:59,458 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:43:59,965 - WARNING [ServerThread] Connection broken for id 9897, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:44:00,470 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:00,976 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:01,492 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:02,000 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:44:02,503 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:03,007 - WARNING [ServerThread] Connection broken for id 9912, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:44:03,511 - WARNING [ServerThread] Connection broken for id 7539, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:44:04,015 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:04,519 - WARNING [ServerThread] Connection broken for id 5625, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:44:05,022 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:44:05,527 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:44:06,029 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:44:06,531 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:07,042 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:07,545 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:08,046 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:08,548 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:09,049 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:09,553 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:10,062 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:44:10,562 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:44:11,065 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:11,569 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:12,079 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:12,580 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:13,084 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:13,586 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:14,096 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:44:14,601 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:15,102 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:15,608 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:16,109 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:16,611 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:44:17,115 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:44:17,619 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:44:18,123 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:18,626 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:19,129 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:44:19,633 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:44:20,155 - WARNING [ServerThread] Connection broken for id 9620, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:44:20,659 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:21,163 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:21,666 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:22,170 - WARNING [ServerThread] Connection broken for id 8482, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:44:22,672 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:23,175 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:23,682 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:24,186 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:24,688 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:25,192 - WARNING [ServerThread] Connection broken for id 2825, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:44:25,695 - WARNING [ServerThread] Connection broken for id 5375, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:44:26,202 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:44:26,705 - WARNING [ServerThread] Connection broken for id 7224, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:44:27,210 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:27,711 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:28,212 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:28,715 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:29,218 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:29,719 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:30,226 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:30,728 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:44:31,232 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:44:31,735 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:32,238 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:32,740 - WARNING [ServerThread] Connection broken for id 8039, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:44:33,242 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:33,745 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:44:34,251 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:44:34,755 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:35,259 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:35,760 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:36,262 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:36,764 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:44:37,266 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:37,767 - WARNING [ServerThread] Connection broken for id 2579, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:44:38,268 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:38,768 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:39,271 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:39,773 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:40,278 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:44:40,778 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:41,280 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:41,786 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:42,287 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:42,798 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:43,321 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:43,828 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:44,332 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:44,834 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:45,337 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:44:45,841 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:44:46,346 - WARNING [ServerThread] Connection broken for id 3016, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:44:46,849 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:47,374 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:47,882 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:48,385 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:48,885 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:44:49,386 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:49,889 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:50,389 - WARNING [ServerThread] Connection broken for id 1831, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:44:50,893 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:51,398 - WARNING [ServerThread] Connection broken for id 9878, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:44:51,906 - WARNING [ServerThread] Connection broken for id 1349, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:44:52,426 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:52,928 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:44:53,434 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:44:53,937 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:54,439 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:54,940 - WARNING [ServerThread] Connection broken for id 9121, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:44:55,443 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:55,951 - WARNING [ServerThread] Connection broken for id 9677, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:44:56,458 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:44:56,960 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:57,468 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:44:57,975 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:58,477 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:44:58,983 - WARNING [ServerThread] Connection broken for id 3972, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:44:59,490 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:44:59,993 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:00,495 - WARNING [ServerThread] Connection broken for id 7843, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:45:00,998 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:45:01,500 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:02,008 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:02,513 - WARNING [ServerThread] Connection broken for id 4400, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:45:03,015 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:45:03,527 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:04,034 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:04,550 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:05,051 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:05,558 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:45:06,075 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:06,582 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:07,106 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:07,607 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:08,110 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:08,610 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:09,122 - WARNING [ServerThread] Connection broken for id 1944, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:45:09,626 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:10,129 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:10,637 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:11,140 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:45:11,662 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:12,166 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:12,667 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:13,170 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:13,672 - WARNING [ServerThread] Connection broken for id 4192, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:45:14,175 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:14,678 - WARNING [ServerThread] Connection broken for id 5020, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:45:15,182 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:45:15,686 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:16,190 - WARNING [ServerThread] Connection broken for id 5634, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:45:16,699 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:17,219 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:17,722 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:45:18,228 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:18,734 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:45:19,239 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:19,741 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:20,243 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:20,753 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:21,259 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:21,763 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:22,266 - WARNING [ServerThread] Connection broken for id 9249, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:45:22,768 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:45:23,277 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:23,780 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:24,301 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:24,805 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:25,310 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:25,813 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:45:26,324 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:45:26,835 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:27,352 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:27,860 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:45:28,362 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:45:28,867 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:29,373 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:29,876 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:30,380 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:30,881 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:31,387 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:31,889 - WARNING [ServerThread] Connection broken for id 1573, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:45:32,395 - WARNING [ServerThread] Connection broken for id 5171, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:45:32,900 - WARNING [ServerThread] Connection broken for id 9509, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:45:33,407 - WARNING [ServerThread] Connection broken for id 5600, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:45:33,911 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:45:34,419 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:34,921 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:35,427 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:35,931 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:36,435 - WARNING [ServerThread] Connection broken for id 3370, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:45:36,943 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:45:37,445 - WARNING [ServerThread] Connection broken for id 9967, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:45:37,951 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:45:38,456 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:38,960 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:39,463 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:39,966 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:45:40,470 - WARNING [ServerThread] Connection broken for id 8618, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:45:40,979 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:45:41,481 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:45:41,984 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:42,488 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:42,994 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:43,517 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:45:44,027 - WARNING [ServerThread] Connection broken for id 8618, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:45:44,534 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:45:45,035 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:45:45,536 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:46,039 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:46,541 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:47,046 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:47,548 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:48,051 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:48,552 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:49,056 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:49,561 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:50,067 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:50,573 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:51,075 - WARNING [ServerThread] Connection broken for id 7790, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:45:51,580 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:52,084 - WARNING [ServerThread] Connection broken for id 8741, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:45:52,589 - WARNING [ServerThread] Connection broken for id 2323, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:45:53,099 - WARNING [ServerThread] Connection broken for id 5032, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:45:53,603 - WARNING [ServerThread] Connection broken for id 9009, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:45:54,108 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:54,610 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:45:55,117 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:45:55,623 - WARNING [ServerThread] Connection broken for id 4694, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:45:56,125 - WARNING [ServerThread] Connection broken for id 6197, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:45:56,633 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:57,141 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:45:57,643 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:45:58,147 - WARNING [ServerThread] Connection broken for id 7596, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:45:58,652 - WARNING [ServerThread] Connection broken for id 8892, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:45:59,155 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:45:59,657 - WARNING [ServerThread] Connection broken for id 6578, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:46:00,160 - WARNING [ServerThread] Connection broken for id 1541, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:46:00,662 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:01,164 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:46:01,668 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:46:02,176 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:46:02,680 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:46:03,183 - WARNING [ServerThread] Connection broken for id 1927, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:46:03,685 - WARNING [ServerThread] Connection broken for id 2610, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:46:04,190 - WARNING [ServerThread] Connection broken for id 9268, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:46:04,698 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:05,203 - WARNING [ServerThread] Connection broken for id 3295, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:46:05,710 - WARNING [ServerThread] Connection broken for id 5241, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:46:06,216 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:06,725 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:46:07,234 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:07,772 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:08,287 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:08,794 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:46:09,297 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:46:09,801 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:46:10,314 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:10,818 - WARNING [ServerThread] Connection broken for id 8300, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:46:11,326 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:46:11,829 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:12,332 - WARNING [ServerThread] Connection broken for id 8162, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:46:12,837 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:13,339 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:13,846 - WARNING [ServerThread] Connection broken for id 1027, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:46:14,348 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:14,854 - WARNING [ServerThread] Connection broken for id 1390, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:46:15,355 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:15,858 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:16,364 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:16,870 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:17,373 - WARNING [ServerThread] Connection broken for id 2541, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:46:17,879 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:18,380 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:46:18,885 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:46:19,386 - WARNING [ServerThread] Connection broken for id 5197, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:46:19,890 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:20,392 - WARNING [ServerThread] Connection broken for id 2117, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:46:20,898 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:46:21,400 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:21,902 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:46:22,403 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:46:22,905 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:46:23,412 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:46:23,913 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:24,419 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:24,922 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:25,426 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:25,929 - WARNING [ServerThread] Connection broken for id 7851, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:46:26,432 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:26,937 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:46:27,442 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:46:27,946 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:46:28,458 - WARNING [ServerThread] Connection broken for id 5484, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:46:28,962 - WARNING [ServerThread] Connection broken for id 3370, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:46:29,479 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:46:29,986 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:46:30,488 - WARNING [ServerThread] Connection broken for id 6637, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:46:30,993 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:31,495 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:31,997 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:46:32,507 - WARNING [ServerThread] Connection broken for id 4803, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:46:33,009 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:33,515 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:46:34,020 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:34,526 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:46:35,030 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:46:35,531 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:46:36,038 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:36,538 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:37,042 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:37,543 - WARNING [ServerThread] Connection broken for id 1924, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:46:38,048 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:46:38,550 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:39,054 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:39,558 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:40,060 - WARNING [ServerThread] Connection broken for id 8707, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:46:40,566 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:46:41,071 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:41,573 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:42,079 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:46:42,583 - WARNING [ServerThread] Connection broken for id 2837, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:46:43,086 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:46:43,589 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:44,118 - WARNING [ServerThread] Connection broken for id 3162, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:46:44,620 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:45,126 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:46:45,628 - WARNING [ServerThread] Connection broken for id 2173, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:46:46,137 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:46:46,644 - WARNING [ServerThread] Connection broken for id 2222, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:46:47,148 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:47,651 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:46:48,154 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:46:48,658 - WARNING [ServerThread] Connection broken for id 7118, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:46:49,163 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:46:49,671 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:50,203 - WARNING [ServerThread] Connection broken for id 4191, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:46:50,710 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:51,215 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:51,726 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:46:52,233 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:46:52,735 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:46:53,238 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:53,742 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:46:54,247 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:46:54,752 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:46:55,259 - WARNING [ServerThread] Connection broken for id 6951, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:46:55,762 - WARNING [ServerThread] Connection broken for id 4970, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:46:56,267 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:46:56,769 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:57,274 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:46:57,774 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:46:58,278 - WARNING [ServerThread] Connection broken for id 2431, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:46:58,782 - WARNING [ServerThread] Connection broken for id 2909, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:46:59,292 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:46:59,821 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:00,322 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:00,822 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:47:01,328 - WARNING [ServerThread] Connection broken for id 2127, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:47:01,835 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:47:02,343 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:47:02,844 - WARNING [ServerThread] Connection broken for id 2153, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:47:03,346 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:47:03,850 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:47:04,352 - WARNING [ServerThread] Connection broken for id 5902, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:47:04,856 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:05,358 - WARNING [ServerThread] Connection broken for id 8371, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:47:05,861 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:06,364 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:47:06,874 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:07,379 - WARNING [ServerThread] Connection broken for id 1008, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:47:07,897 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:08,407 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:47:08,916 - WARNING [ServerThread] Connection broken for id 3661, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:47:09,419 - WARNING [ServerThread] Connection broken for id 6266, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:47:09,924 - WARNING [ServerThread] Connection broken for id 5450, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:47:10,425 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:10,926 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:47:11,430 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:47:11,931 - WARNING [ServerThread] Connection broken for id 8406, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:47:12,434 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:47:12,936 - WARNING [ServerThread] Connection broken for id 3788, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:47:13,437 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:47:13,942 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:14,448 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:47:14,952 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:47:15,455 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:47:15,962 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:47:16,464 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:16,965 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:17,475 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:17,978 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:18,487 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:18,990 - WARNING [ServerThread] Connection broken for id 5783, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:47:19,493 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:47:20,008 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:47:20,510 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:47:21,016 - WARNING [ServerThread] Connection broken for id 9268, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:47:21,525 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:22,027 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:22,529 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:23,034 - WARNING [ServerThread] Connection broken for id 8407, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:47:23,559 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:24,063 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:24,566 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:25,069 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:47:25,572 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:26,074 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:26,577 - WARNING [ServerThread] Connection broken for id 3993, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:47:27,083 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:27,589 - WARNING [ServerThread] Connection broken for id 5474, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:47:28,093 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:28,596 - WARNING [ServerThread] Connection broken for id 6302, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:47:29,103 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:29,607 - WARNING [ServerThread] Connection broken for id 8845, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:47:30,109 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:47:30,612 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:31,115 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:31,619 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:32,127 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:32,629 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:47:33,134 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:33,638 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:34,140 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:47:34,643 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:47:35,146 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:35,648 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:36,151 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:47:36,654 - WARNING [ServerThread] Connection broken for id 3595, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:47:37,158 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:47:37,666 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:38,168 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:47:38,671 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 11:47:39,180 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:39,682 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:40,188 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:47:40,693 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:41,196 - WARNING [ServerThread] Connection broken for id 7419, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 11:47:41,701 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:47:42,203 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:47:42,708 - WARNING [ServerThread] Connection broken for id 5499, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 11:47:43,227 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:43,728 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:44,235 - WARNING [ServerThread] Connection broken for id 2000, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:47:44,743 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:45,248 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 11:47:45,752 - WARNING [ServerThread] Connection broken for id 9798, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:47:46,263 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 11:47:46,767 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 11:47:47,276 - WARNING [ServerThread] Connection broken for id 1449, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 11:47:47,825 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:48,328 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 11:47:48,832 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 11:47:49,337 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:02:34,522 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:02:35,030 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:02:35,534 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:02:36,035 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:02:36,537 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:02:37,044 - WARNING [ServerThread] Connection broken for id 8187, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:02:37,546 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:02:38,048 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:02:38,548 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:02:39,051 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:02:39,552 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:02:40,057 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:02:40,560 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:02:41,062 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:02:41,566 - WARNING [ServerThread] Connection broken for id 7380, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:02:42,071 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:02:42,572 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:02:43,073 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:02:43,575 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:02:44,077 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:02:44,581 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:02:45,082 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:02:45,585 - WARNING [ServerThread] Connection broken for id 5512, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:02:46,089 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:02:46,591 - WARNING [ServerThread] Connection broken for id 1369, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:02:47,094 - WARNING [ServerThread] Connection broken for id 4751, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:02:47,596 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:02:48,102 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:02:48,608 - WARNING [ServerThread] Connection broken for id 9317, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:02:49,115 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:02:49,617 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:02:50,120 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:02:50,623 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:02:51,126 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:02:51,629 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:02:52,140 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:02:52,641 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:02:53,149 - WARNING [ServerThread] Connection broken for id 1046, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:02:53,657 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:02:54,159 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:02:54,660 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:02:55,162 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:02:55,668 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:02:56,170 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:02:56,674 - WARNING [ServerThread] Connection broken for id 9093, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:02:57,175 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:02:57,685 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:02:58,186 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:02:58,686 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:02:59,188 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:02:59,690 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:00,194 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:00,698 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:03:01,199 - WARNING [ServerThread] Connection broken for id 7200, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:03:01,702 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:02,207 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:02,713 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:03:03,215 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:03,717 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:03:04,233 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:04,742 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:05,244 - WARNING [ServerThread] Connection broken for id 5895, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:03:05,749 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:06,251 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:06,754 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:03:07,256 - WARNING [ServerThread] Connection broken for id 6756, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:03:07,757 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:08,261 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:08,763 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:03:09,265 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:03:09,767 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:10,271 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:10,772 - WARNING [ServerThread] Connection broken for id 6090, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:03:11,276 - WARNING [ServerThread] Connection broken for id 3529, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:03:11,778 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:12,280 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:03:12,784 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:13,289 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:03:13,791 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:14,293 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:14,796 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:15,306 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:15,813 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:16,315 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:16,820 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:17,323 - WARNING [ServerThread] Connection broken for id 8134, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:03:17,824 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:18,328 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:18,832 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:19,334 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:03:19,838 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:03:20,340 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:03:20,842 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:21,344 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:03:21,845 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:03:22,359 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:22,864 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:23,366 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:23,868 - WARNING [ServerThread] Connection broken for id 4522, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:03:24,377 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:24,882 - WARNING [ServerThread] Connection broken for id 4160, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:03:25,384 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:25,890 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:03:26,394 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:26,904 - WARNING [ServerThread] Connection broken for id 3492, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:03:27,404 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:27,907 - WARNING [ServerThread] Connection broken for id 1109, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:03:28,409 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:28,909 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:29,413 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:29,917 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:30,422 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:03:30,925 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:31,431 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:31,936 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:03:32,437 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:32,939 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:03:33,441 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:03:33,945 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:34,453 - WARNING [ServerThread] Connection broken for id 2122, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:03:34,954 - WARNING [ServerThread] Connection broken for id 3990, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:03:35,455 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:35,958 - WARNING [ServerThread] Connection broken for id 3090, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:03:36,464 - WARNING [ServerThread] Connection broken for id 2469, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:03:36,968 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:37,468 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:37,969 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:03:38,473 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:38,995 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:03:39,500 - WARNING [ServerThread] Connection broken for id 3923, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:03:40,001 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:03:40,504 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:41,006 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:41,512 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:03:42,016 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:03:42,517 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:43,019 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:03:43,521 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:03:44,024 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:44,529 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:45,030 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:45,534 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:03:46,043 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:03:46,548 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:47,050 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:03:47,559 - WARNING [ServerThread] Connection broken for id 3936, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:03:48,063 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:03:48,568 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:49,071 - WARNING [ServerThread] Connection broken for id 2402, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:03:49,572 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:50,074 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:03:50,577 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:51,081 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:51,588 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:03:52,099 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:52,608 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:03:53,109 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:53,610 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:54,121 - WARNING [ServerThread] Connection broken for id 5613, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:03:54,622 - WARNING [ServerThread] Connection broken for id 7360, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:03:55,127 - WARNING [ServerThread] Connection broken for id 4052, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:03:55,629 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:03:56,140 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:56,649 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:57,151 - WARNING [ServerThread] Connection broken for id 5274, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:03:57,660 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:58,176 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:03:58,676 - WARNING [ServerThread] Connection broken for id 4631, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:03:59,177 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:03:59,679 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:00,183 - WARNING [ServerThread] Connection broken for id 1996, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:04:00,685 - WARNING [ServerThread] Connection broken for id 1096, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:04:01,192 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:04:01,694 - WARNING [ServerThread] Connection broken for id 4065, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:04:02,197 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:04:02,701 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:04:03,202 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:04:03,704 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:04:04,205 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:04:04,706 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:05,209 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:05,710 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:06,212 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:06,716 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:04:07,220 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:04:07,721 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:04:08,225 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:04:08,728 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:09,236 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:09,736 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:10,238 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:10,739 - WARNING [ServerThread] Connection broken for id 4587, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:04:11,240 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:11,742 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:04:12,244 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:12,748 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:04:13,250 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:04:13,754 - WARNING [ServerThread] Connection broken for id 3296, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:04:14,259 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:04:14,760 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:15,266 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:04:15,767 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:16,273 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:16,780 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:04:17,281 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:17,800 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:18,301 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:04:18,809 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:04:19,314 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:19,822 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:04:20,323 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:04:20,831 - WARNING [ServerThread] Connection broken for id 3010, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:04:21,340 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:04:21,844 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:04:22,346 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:22,851 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:23,360 - WARNING [ServerThread] Connection broken for id 7418, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:04:23,862 - WARNING [ServerThread] Connection broken for id 7672, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:04:24,375 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:24,880 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:04:25,398 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:04:25,902 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:04:26,404 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:04:26,911 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:27,417 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:27,921 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:28,424 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:28,930 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:04:29,433 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:29,940 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:30,442 - WARNING [ServerThread] Connection broken for id 2459, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:04:30,948 - WARNING [ServerThread] Connection broken for id 4875, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:04:31,452 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:31,956 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:04:32,458 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:32,977 - WARNING [ServerThread] Connection broken for id 3996, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:04:33,487 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:04:33,988 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:34,493 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:04:34,994 - WARNING [ServerThread] Connection broken for id 8303, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:04:35,495 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:04:35,997 - WARNING [ServerThread] Connection broken for id 9996, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:04:36,509 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:37,017 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:04:37,530 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:38,065 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:38,565 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:04:39,066 - WARNING [ServerThread] Connection broken for id 6950, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:04:39,566 - WARNING [ServerThread] Connection broken for id 2789, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:04:40,067 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:40,572 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:41,076 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:41,577 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:42,091 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:42,593 - WARNING [ServerThread] Connection broken for id 7177, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:04:43,112 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:43,640 - WARNING [ServerThread] Connection broken for id 7451, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:04:44,181 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:04:44,693 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:45,217 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:45,720 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:46,223 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:46,727 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:47,237 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:47,738 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:48,247 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:48,748 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:04:49,251 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:49,752 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:50,253 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:04:50,761 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:51,262 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:04:51,764 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:04:52,266 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:04:52,767 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:04:53,271 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:53,771 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:54,276 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:04:54,777 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:04:55,281 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:04:55,782 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:04:56,283 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:04:56,786 - WARNING [ServerThread] Connection broken for id 8071, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:04:57,291 - WARNING [ServerThread] Connection broken for id 2830, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:04:57,793 - WARNING [ServerThread] Connection broken for id 8627, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:04:58,294 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:04:58,827 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:04:59,332 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:04:59,833 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:05:00,334 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:05:00,835 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:05:01,339 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:01,842 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:05:02,343 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:02,848 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:03,348 - WARNING [ServerThread] Connection broken for id 1267, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:05:03,853 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:04,356 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:04,861 - WARNING [ServerThread] Connection broken for id 2730, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:05:05,362 - WARNING [ServerThread] Connection broken for id 8257, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:05:05,864 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:05:06,365 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:05:06,868 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:07,370 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:07,872 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:08,374 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:08,875 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:09,377 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:09,881 - WARNING [ServerThread] Connection broken for id 7598, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:05:10,384 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:10,886 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:11,394 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:05:11,896 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:12,398 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:05:12,900 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:05:13,401 - WARNING [ServerThread] Connection broken for id 9751, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:05:13,903 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:14,408 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:14,912 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:15,418 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:15,928 - WARNING [ServerThread] Connection broken for id 4640, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:05:16,431 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:16,933 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:05:17,440 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:17,942 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:05:18,445 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:18,949 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:19,452 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:19,957 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:20,458 - WARNING [ServerThread] Connection broken for id 9777, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:05:20,964 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:21,465 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:21,968 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:22,471 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:22,986 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:23,489 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:05:23,990 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:24,494 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:24,996 - WARNING [ServerThread] Connection broken for id 9201, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:05:25,498 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:26,001 - WARNING [ServerThread] Connection broken for id 9250, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:05:26,508 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:27,016 - WARNING [ServerThread] Connection broken for id 6804, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:05:27,517 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:28,019 - WARNING [ServerThread] Connection broken for id 6501, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:05:28,521 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:29,022 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:05:29,524 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:30,025 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:30,529 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:31,030 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:05:31,533 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:32,034 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:32,539 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:33,041 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:33,543 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:34,045 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:05:34,551 - WARNING [ServerThread] Connection broken for id 6387, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:05:35,053 - WARNING [ServerThread] Connection broken for id 2696, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:05:35,554 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:36,057 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:36,561 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:37,063 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:37,565 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:38,068 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:38,572 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:39,076 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:39,583 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:40,092 - WARNING [ServerThread] Connection broken for id 2632, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:05:40,594 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:41,095 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:41,598 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:42,107 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:05:42,612 - WARNING [ServerThread] Connection broken for id 4640, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:05:43,117 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:05:43,619 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:44,128 - WARNING [ServerThread] Connection broken for id 6305, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:05:44,636 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:45,146 - WARNING [ServerThread] Connection broken for id 4223, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:05:45,648 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:05:46,150 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:05:46,652 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:47,158 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:47,663 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:05:48,176 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:48,678 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:49,179 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:49,681 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:50,185 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:50,687 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:51,191 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:05:51,696 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:52,199 - WARNING [ServerThread] Connection broken for id 5302, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:05:52,700 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:53,207 - WARNING [ServerThread] Connection broken for id 6652, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:05:53,710 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:05:54,216 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:54,720 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:55,221 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:05:55,725 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:05:56,228 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:56,731 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:05:57,235 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:05:57,739 - WARNING [ServerThread] Connection broken for id 4919, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:05:58,245 - WARNING [ServerThread] Connection broken for id 4774, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:05:58,747 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:05:59,248 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:05:59,751 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:00,253 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:06:00,754 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:01,260 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:01,762 - WARNING [ServerThread] Connection broken for id 3845, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:06:02,267 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:02,768 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:03,270 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:06:03,771 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:04,274 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:04,777 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:06:05,278 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:06:05,780 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:06:06,282 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:06,785 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:06:07,287 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:07,799 - WARNING [ServerThread] Connection broken for id 3758, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:06:08,300 - WARNING [ServerThread] Connection broken for id 1006, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:06:08,802 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:09,305 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:06:09,808 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:06:10,310 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:06:10,812 - WARNING [ServerThread] Connection broken for id 9876, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:06:11,314 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:11,815 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:12,321 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:06:12,823 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:06:13,325 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:06:13,827 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:14,328 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:14,830 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:15,341 - WARNING [ServerThread] Connection broken for id 7730, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:06:15,842 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:06:16,343 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:06:16,845 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:17,347 - WARNING [ServerThread] Connection broken for id 3274, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:06:17,849 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:18,351 - WARNING [ServerThread] Connection broken for id 5859, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:06:18,856 - WARNING [ServerThread] Connection broken for id 8263, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:06:19,358 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:19,859 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:20,364 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:06:20,867 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:06:21,369 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:06:21,871 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:06:22,373 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:22,874 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:23,376 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:06:23,878 - WARNING [ServerThread] Connection broken for id 6700, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:06:24,381 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:06:24,884 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:25,386 - WARNING [ServerThread] Connection broken for id 8149, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:06:25,888 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:06:26,392 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:26,898 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:27,402 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:06:27,903 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:06:28,404 - WARNING [ServerThread] Connection broken for id 8829, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:06:28,906 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:06:29,409 - WARNING [ServerThread] Connection broken for id 7086, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:06:29,912 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:06:30,416 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:30,918 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:31,422 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:06:31,924 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:32,433 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:06:32,935 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:06:33,437 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:06:33,938 - WARNING [ServerThread] Connection broken for id 3849, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:06:34,444 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:34,948 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:35,449 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:35,951 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:36,457 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:36,959 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:37,460 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:37,964 - WARNING [ServerThread] Connection broken for id 8613, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:06:38,473 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:06:38,985 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:06:39,485 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:06:39,987 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:06:40,501 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:41,001 - WARNING [ServerThread] Connection broken for id 5673, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:06:41,502 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:42,007 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:42,508 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:43,012 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:06:43,517 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:44,020 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:06:44,525 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:45,027 - WARNING [ServerThread] Connection broken for id 9218, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:06:45,532 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:06:46,036 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:06:46,540 - WARNING [ServerThread] Connection broken for id 5048, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:06:47,042 - WARNING [ServerThread] Connection broken for id 3285, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:06:47,544 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:06:48,052 - WARNING [ServerThread] Connection broken for id 8674, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:06:48,557 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:49,057 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:49,559 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:50,061 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:50,565 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:06:51,066 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:06:51,570 - WARNING [ServerThread] Connection broken for id 7606, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:06:52,073 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:06:52,577 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:53,079 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:06:53,588 - WARNING [ServerThread] Connection broken for id 8913, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:06:54,090 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:06:54,590 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:55,093 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:55,594 - WARNING [ServerThread] Connection broken for id 8045, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:06:56,095 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:06:56,600 - WARNING [ServerThread] Connection broken for id 3376, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:06:57,102 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:57,604 - WARNING [ServerThread] Connection broken for id 5160, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:06:58,108 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:06:58,610 - WARNING [ServerThread] Connection broken for id 2213, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:06:59,112 - WARNING [ServerThread] Connection broken for id 4489, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:06:59,617 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:07:00,118 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:07:00,628 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:07:01,129 - WARNING [ServerThread] Connection broken for id 2386, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:07:01,647 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:02,152 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:02,652 - WARNING [ServerThread] Connection broken for id 9235, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:07:03,153 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:07:03,655 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:07:04,158 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:07:04,660 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:07:05,161 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:07:05,665 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:06,169 - WARNING [ServerThread] Connection broken for id 1750, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:07:06,673 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:07:07,174 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:07,677 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:08,178 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:07:08,681 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:07:09,182 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:09,682 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:07:10,188 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:07:10,690 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:11,192 - WARNING [ServerThread] Connection broken for id 1506, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:07:11,693 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:07:12,195 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:07:12,696 - WARNING [ServerThread] Connection broken for id 3547, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:07:13,196 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:13,698 - WARNING [ServerThread] Connection broken for id 4093, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:07:14,199 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:07:14,702 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:15,204 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:07:15,706 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:16,208 - WARNING [ServerThread] Connection broken for id 4736, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:07:16,712 - WARNING [ServerThread] Connection broken for id 4769, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:07:17,213 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:17,717 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:18,218 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:07:18,720 - WARNING [ServerThread] Connection broken for id 5638, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:07:19,224 - WARNING [ServerThread] Connection broken for id 5556, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:07:19,734 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:07:20,236 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:20,739 - WARNING [ServerThread] Connection broken for id 2659, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:07:21,242 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:21,743 - WARNING [ServerThread] Connection broken for id 2585, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:07:22,245 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:07:22,747 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:07:23,249 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:23,752 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:07:24,260 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:24,765 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:07:25,273 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:07:25,774 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:26,275 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:26,780 - WARNING [ServerThread] Connection broken for id 9846, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:07:27,285 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:27,786 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:28,293 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:28,795 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:07:29,297 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:07:29,804 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:30,306 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:30,810 - WARNING [ServerThread] Connection broken for id 4114, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:07:31,316 - WARNING [ServerThread] Connection broken for id 4515, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:07:31,818 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:07:32,321 - WARNING [ServerThread] Connection broken for id 6908, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:07:32,822 - WARNING [ServerThread] Connection broken for id 4249, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:07:33,331 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:33,853 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:07:34,354 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:34,855 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:35,365 - WARNING [ServerThread] Connection broken for id 5680, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:07:35,884 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:07:36,385 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:36,886 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:37,387 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:37,889 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:38,393 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:07:38,894 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:07:39,404 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:39,912 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:40,413 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:07:40,914 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:41,416 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:07:41,920 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:07:42,425 - WARNING [ServerThread] Connection broken for id 2690, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:07:42,929 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:07:43,436 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:07:43,946 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:07:44,449 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:44,958 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:07:45,458 - WARNING [ServerThread] Connection broken for id 2347, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:07:45,960 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:07:46,464 - WARNING [ServerThread] Connection broken for id 1480, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:07:46,966 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:07:47,468 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:47,971 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:48,472 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:48,974 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:49,476 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:49,978 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:50,481 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:50,984 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:07:51,485 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:51,988 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:07:52,491 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:07:52,991 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:53,502 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:54,006 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:54,508 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:55,009 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:55,510 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:56,011 - WARNING [ServerThread] Connection broken for id 1234, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:07:56,512 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:07:57,012 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:57,513 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:58,014 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:07:58,515 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:07:59,017 - WARNING [ServerThread] Connection broken for id 7317, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:07:59,518 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:00,021 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:00,523 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:08:01,028 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:08:01,532 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:02,033 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:02,536 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:03,040 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:03,542 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:04,043 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:04,544 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:05,046 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:05,547 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:06,049 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:08:06,552 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:07,053 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:07,555 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:08,057 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:08,560 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:09,065 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:09,576 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:10,082 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:10,588 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:08:11,089 - WARNING [ServerThread] Connection broken for id 1723, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:08:11,596 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:12,101 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:12,614 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:13,123 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:13,628 - WARNING [ServerThread] Connection broken for id 6126, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:08:14,137 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:14,641 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:15,144 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:15,648 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:16,154 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:16,661 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:17,164 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:17,665 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:18,168 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:18,676 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:19,177 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:19,683 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:08:20,184 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:20,700 - WARNING [ServerThread] Connection broken for id 3665, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:08:21,201 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:21,702 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:22,207 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:22,718 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:23,230 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:23,731 - WARNING [ServerThread] Connection broken for id 4170, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:08:24,239 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:24,743 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:25,248 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:25,751 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:26,277 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:26,780 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:27,281 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:27,782 - WARNING [ServerThread] Connection broken for id 6805, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:08:28,285 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:28,792 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:29,292 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:29,793 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:08:30,296 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:30,799 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:31,309 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:31,816 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:32,317 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:32,822 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:33,323 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:33,828 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:34,331 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:34,835 - WARNING [ServerThread] Connection broken for id 1018, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:08:35,345 - WARNING [ServerThread] Connection broken for id 7889, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:08:35,847 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:08:36,352 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:08:36,853 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:37,354 - WARNING [ServerThread] Connection broken for id 4463, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:08:37,856 - WARNING [ServerThread] Connection broken for id 7610, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:08:38,357 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:08:38,860 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:08:39,364 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:39,864 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:40,366 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:40,868 - WARNING [ServerThread] Connection broken for id 8769, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:08:41,375 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:41,880 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:42,381 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:42,886 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:43,389 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:43,892 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:44,399 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:44,905 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:45,415 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:08:45,925 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:08:46,428 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:46,930 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:47,432 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:08:47,936 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:08:48,437 - WARNING [ServerThread] Connection broken for id 7103, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:08:48,940 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:08:49,443 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:49,952 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:50,455 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:50,965 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:08:51,473 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:08:51,980 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:52,485 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:52,994 - WARNING [ServerThread] Connection broken for id 7250, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:08:53,500 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:08:54,002 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:54,503 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:55,008 - WARNING [ServerThread] Connection broken for id 2825, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:08:55,510 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:56,014 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:08:56,515 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:08:57,019 - WARNING [ServerThread] Connection broken for id 3017, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:08:57,520 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:08:58,021 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:58,521 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:08:59,022 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:08:59,525 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:09:00,027 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:09:00,528 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:09:01,032 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:01,533 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:02,036 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:09:02,537 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:03,040 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:09:03,546 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:04,047 - WARNING [ServerThread] Connection broken for id 6342, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:09:04,549 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:05,051 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:05,556 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:06,059 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:09:06,560 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:07,063 - WARNING [ServerThread] Connection broken for id 5275, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:09:07,570 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:09:08,080 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:09:08,586 - WARNING [ServerThread] Connection broken for id 9269, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:09:09,098 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:09:09,614 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:09:10,118 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:10,629 - WARNING [ServerThread] Connection broken for id 4030, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:09:11,153 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:09:11,654 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:09:12,155 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:12,656 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:09:13,158 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:09:13,666 - WARNING [ServerThread] Connection broken for id 4402, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:09:14,169 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:14,675 - WARNING [ServerThread] Connection broken for id 4901, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:09:15,177 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:09:15,683 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:09:16,187 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:16,696 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:17,198 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:17,699 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:18,199 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:18,700 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:19,202 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:19,705 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:20,209 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:20,724 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:21,229 - WARNING [ServerThread] Connection broken for id 8310, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:09:21,731 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:22,236 - WARNING [ServerThread] Connection broken for id 2870, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:09:22,740 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:23,246 - WARNING [ServerThread] Connection broken for id 8710, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:09:23,749 - WARNING [ServerThread] Connection broken for id 1938, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:09:24,262 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:09:24,769 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:25,275 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:09:25,781 - WARNING [ServerThread] Connection broken for id 8767, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:09:26,293 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:26,794 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:09:27,295 - WARNING [ServerThread] Connection broken for id 4362, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:09:27,804 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:09:28,305 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:28,809 - WARNING [ServerThread] Connection broken for id 9031, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:09:29,310 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:09:29,814 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:30,316 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:09:30,819 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:31,331 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:31,837 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:09:32,341 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:32,844 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:33,347 - WARNING [ServerThread] Connection broken for id 1991, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:09:33,848 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:34,351 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:09:34,851 - WARNING [ServerThread] Connection broken for id 4304, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:09:35,352 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:35,854 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:09:36,360 - WARNING [ServerThread] Connection broken for id 4410, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:09:36,865 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:37,366 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:09:37,870 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:09:38,378 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:09:38,880 - WARNING [ServerThread] Connection broken for id 8885, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:09:39,386 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:39,886 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:40,395 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:09:40,896 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:09:41,400 - WARNING [ServerThread] Connection broken for id 1117, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:09:41,903 - WARNING [ServerThread] Connection broken for id 4566, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:09:42,408 - WARNING [ServerThread] Connection broken for id 5374, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:09:42,913 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:43,417 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:09:43,924 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:09:44,425 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:09:44,929 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:45,437 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:45,947 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:09:46,448 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:09:46,955 - WARNING [ServerThread] Connection broken for id 5078, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:09:47,456 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:47,959 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:09:48,460 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:09:48,961 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:09:49,463 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:49,970 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:50,477 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:50,979 - WARNING [ServerThread] Connection broken for id 8253, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:09:51,481 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:51,986 - WARNING [ServerThread] Connection broken for id 3458, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:09:52,488 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:52,997 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:53,500 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:54,012 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:09:54,513 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:09:55,014 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:55,521 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:56,022 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:09:56,532 - WARNING [ServerThread] Connection broken for id 7949, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:09:57,035 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:09:57,540 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:09:58,042 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:09:58,544 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:09:59,046 - WARNING [ServerThread] Connection broken for id 7529, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:09:59,557 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:00,063 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:00,564 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:01,070 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:01,573 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:02,084 - WARNING [ServerThread] Connection broken for id 8714, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:10:02,592 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:03,100 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:03,601 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:04,104 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:04,621 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:10:05,149 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:10:05,649 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:10:06,150 - WARNING [ServerThread] Connection broken for id 6556, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:10:06,653 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:10:07,156 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:10:07,660 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:08,165 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:08,667 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:10:09,171 - WARNING [ServerThread] Connection broken for id 2717, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:10:09,673 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:10,179 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:10,685 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:11,189 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:11,692 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:12,194 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:10:12,698 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:10:13,200 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:10:13,702 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:10:14,204 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:14,707 - WARNING [ServerThread] Connection broken for id 9664, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:10:15,213 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:10:15,714 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:16,216 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:16,720 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:17,222 - WARNING [ServerThread] Connection broken for id 7562, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:10:17,724 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:10:18,226 - WARNING [ServerThread] Connection broken for id 3420, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:10:18,730 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:19,231 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:10:19,733 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:20,235 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:20,739 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:10:21,244 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:10:21,747 - WARNING [ServerThread] Connection broken for id 6848, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:10:22,252 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:10:22,755 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:10:23,257 - WARNING [ServerThread] Connection broken for id 4862, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:10:23,758 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:24,260 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:24,763 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:25,268 - WARNING [ServerThread] Connection broken for id 8870, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:10:25,775 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:10:26,279 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:26,782 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:27,294 - WARNING [ServerThread] Connection broken for id 3579, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:10:27,799 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:28,301 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:28,802 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:10:29,304 - WARNING [ServerThread] Connection broken for id 9094, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:10:29,807 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:10:30,316 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:10:30,818 - WARNING [ServerThread] Connection broken for id 2426, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:10:31,320 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:31,821 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:10:32,322 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:32,829 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:10:33,331 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:33,836 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:34,338 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:34,840 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:10:35,345 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:35,853 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:36,357 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:36,861 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:37,373 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:10:37,884 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:38,392 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:38,893 - WARNING [ServerThread] Connection broken for id 1927, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:10:39,394 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:39,897 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:10:40,413 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:10:40,914 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:41,420 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:41,922 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:10:42,424 - WARNING [ServerThread] Connection broken for id 3527, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:10:42,932 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:10:43,435 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:10:43,937 - WARNING [ServerThread] Connection broken for id 7915, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:10:44,441 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:44,956 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:10:45,461 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:45,965 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:10:46,475 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:46,989 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:10:47,496 - WARNING [ServerThread] Connection broken for id 8918, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:10:48,020 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:10:48,543 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:10:49,043 - WARNING [ServerThread] Connection broken for id 4727, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:10:49,544 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:50,044 - WARNING [ServerThread] Connection broken for id 3799, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:10:50,550 - WARNING [ServerThread] Connection broken for id 3972, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:10:51,054 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:51,556 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:10:52,060 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:10:52,560 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:53,066 - WARNING [ServerThread] Connection broken for id 7120, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:10:53,567 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:54,075 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:54,575 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:10:55,078 - WARNING [ServerThread] Connection broken for id 1212, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:10:55,580 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:10:56,082 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:56,585 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:10:57,087 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:57,591 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:58,106 - WARNING [ServerThread] Connection broken for id 4119, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:10:58,617 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:10:59,155 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:10:59,659 - WARNING [ServerThread] Connection broken for id 7539, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:11:00,170 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:11:00,676 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:01,194 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:01,705 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:11:02,206 - WARNING [ServerThread] Connection broken for id 9979, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:11:02,721 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:11:03,234 - WARNING [ServerThread] Connection broken for id 5930, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:11:03,740 - WARNING [ServerThread] Connection broken for id 9408, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:11:04,260 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:04,767 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:05,273 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:11:05,783 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:06,297 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:06,813 - WARNING [ServerThread] Connection broken for id 4154, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:11:07,336 - WARNING [ServerThread] Connection broken for id 4662, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:11:07,848 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:08,361 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:08,878 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:09,405 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:09,917 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:11:10,419 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:11:10,924 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:11,426 - WARNING [ServerThread] Connection broken for id 3457, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:11:11,932 - WARNING [ServerThread] Connection broken for id 7986, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:11:12,437 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:12,939 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:13,454 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:13,963 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:14,480 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:14,984 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:11:15,486 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:11:15,997 - WARNING [ServerThread] Connection broken for id 9314, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:11:16,501 - WARNING [ServerThread] Connection broken for id 2802, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:11:17,014 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:17,517 - WARNING [ServerThread] Connection broken for id 3910, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:11:18,045 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:18,551 - WARNING [ServerThread] Connection broken for id 6501, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:11:19,057 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:19,560 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:11:20,061 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:20,561 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:21,064 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:21,566 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:22,068 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:22,570 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:23,074 - WARNING [ServerThread] Connection broken for id 9903, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:11:23,577 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:24,080 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:11:24,583 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:25,084 - WARNING [ServerThread] Connection broken for id 7041, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:11:25,592 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:26,094 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:26,600 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:27,101 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:27,605 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:11:28,121 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:28,632 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:29,132 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:11:29,633 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:11:30,135 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:11:30,635 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:31,139 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:11:31,640 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:11:32,148 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:32,649 - WARNING [ServerThread] Connection broken for id 4873, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:11:33,150 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:33,652 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:34,154 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:34,656 - WARNING [ServerThread] Connection broken for id 5857, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:11:35,158 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:35,661 - WARNING [ServerThread] Connection broken for id 3738, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:11:36,165 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:36,672 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:37,177 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:37,684 - WARNING [ServerThread] Connection broken for id 5688, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:11:38,185 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:38,687 - WARNING [ServerThread] Connection broken for id 4911, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:11:39,192 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:39,698 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:40,211 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:11:40,716 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:41,224 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:41,737 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:42,238 - WARNING [ServerThread] Connection broken for id 2926, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:11:42,740 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:43,240 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:43,742 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:44,246 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:11:44,747 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:45,248 - WARNING [ServerThread] Connection broken for id 5821, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:11:45,750 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:46,252 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:46,760 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:47,260 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:47,765 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:48,265 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:48,770 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:11:49,272 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:11:49,778 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:11:50,279 - WARNING [ServerThread] Connection broken for id 3823, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:11:50,780 - WARNING [ServerThread] Connection broken for id 3366, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:11:51,284 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:11:51,785 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:52,287 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:52,789 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:11:53,291 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:11:53,792 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:54,293 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:54,794 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:55,294 - WARNING [ServerThread] Connection broken for id 4336, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:11:55,795 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:56,296 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:56,797 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:57,299 - WARNING [ServerThread] Connection broken for id 2941, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:11:57,800 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:11:58,300 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:11:58,801 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:11:59,304 - WARNING [ServerThread] Connection broken for id 8175, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:11:59,805 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:12:00,306 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:00,807 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:01,311 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:01,812 - WARNING [ServerThread] Connection broken for id 9301, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:12:02,315 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:02,824 - WARNING [ServerThread] Connection broken for id 4450, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:12:03,324 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:12:03,826 - WARNING [ServerThread] Connection broken for id 8369, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:12:04,329 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:04,830 - WARNING [ServerThread] Connection broken for id 4661, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:12:05,331 - WARNING [ServerThread] Connection broken for id 6735, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:12:05,832 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:06,335 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:06,835 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:12:07,336 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:07,837 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:08,338 - WARNING [ServerThread] Connection broken for id 6061, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:12:08,839 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:09,341 - WARNING [ServerThread] Connection broken for id 4710, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:12:09,846 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:10,346 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:10,856 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:12:11,360 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:12:11,862 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:12,368 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:12,880 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:13,383 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:12:13,891 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:14,393 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:12:14,894 - WARNING [ServerThread] Connection broken for id 1107, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:12:15,396 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:15,897 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:16,409 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:16,914 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:17,419 - WARNING [ServerThread] Connection broken for id 7948, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:12:17,923 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:12:18,428 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:18,933 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:19,446 - WARNING [ServerThread] Connection broken for id 6793, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:12:19,950 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:20,453 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:20,957 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:12:21,460 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:21,967 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:12:22,471 - WARNING [ServerThread] Connection broken for id 4558, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:12:22,977 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:23,482 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:23,984 - WARNING [ServerThread] Connection broken for id 7239, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:12:24,487 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:12:24,996 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:25,544 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:26,045 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:26,547 - WARNING [ServerThread] Connection broken for id 7612, my id = 1, error = Timeout at /10.10.34.13:3888
+2025-10-03 12:12:27,049 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:27,552 - WARNING [ServerThread] Connection broken for id 7931, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:12:28,053 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:28,555 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:12:29,057 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:29,559 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:30,061 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:30,565 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:31,067 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:31,568 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:12:32,073 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:32,576 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:33,078 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:33,583 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:12:34,087 - WARNING [ServerThread] Connection broken for id 2202, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:12:34,588 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:35,090 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:12:35,592 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:12:36,094 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:12:36,595 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:37,097 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:37,600 - WARNING [ServerThread] Connection broken for id 5039, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:12:38,103 - WARNING [ServerThread] Connection broken for id 2747, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:12:38,605 - WARNING [ServerThread] Received connection request from /10.10.34.11:8080
+2025-10-03 12:12:39,106 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:39,607 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:40,108 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:40,613 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:41,113 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:41,616 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:42,120 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:42,621 - WARNING [ServerThread] Connection broken for id 9356, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:12:43,134 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:43,635 - WARNING [ServerThread] Received connection request from /10.10.34.12:8080
+2025-10-03 12:12:44,143 - WARNING [ServerThread] Connection broken for id 5188, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:12:44,646 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:45,149 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:45,652 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:12:46,160 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:46,661 - WARNING [ServerThread] Connection broken for id 5366, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:12:47,165 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:12:47,668 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:48,169 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:48,672 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:49,174 - WARNING [ServerThread] Connection broken for id 8453, my id = 1, error = Timeout at /10.10.34.12:3888
+2025-10-03 12:12:49,686 - WARNING [ServerThread] Connection broken for id 8350, my id = 1, error = Timeout at /10.10.34.11:3888
+2025-10-03 12:12:50,190 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:50,704 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:51,210 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:51,727 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:52,236 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:12:52,741 - INFO [ServerThread] Processing request from /10.10.34.12:8080
+2025-10-03 12:12:53,253 - INFO [ServerThread] Processing request from /10.10.34.11:8080
+2025-10-03 12:12:53,756 - INFO [ServerThread] Processing request from /10.10.34.13:8080
+2025-10-03 12:12:54,256 - WARNING [ServerThread] Received connection request from /10.10.34.13:8080
+2025-10-03 12:12:54,757 - INFO [ServerThread] Processing request from /10.10.34.12:8080
