@@ -1,0 +1,17 @@
+title: Cron Job File Modified in Webroot or Unusual Directory
+id: e5f6d3a4-0004
+status: experimental
+description: Detect modifications to crontab or creation of cron-like files in web directories.
+author: NeuroCrypt
+logsource:
+  product: linux
+detection:
+  selection:
+    event:
+      - "crontab changed"
+  condition: selection
+level: medium
+falsepositives:
+  - admin scheduled jobs
+tags:
+  - persistence

@@ -1,0 +1,21 @@
+title: Multiple Failed sudo Attempts
+id: e5f6d3a4-0005
+status: experimental
+description: Detect many failed sudo attempts from a single user or host.
+author: NeuroCrypt
+logsource:
+  product: linux
+detection:
+  selection:
+    process: sudo
+    message: "authentication failure"
+  timeframe: 5m
+  aggregation:
+    count: 5
+    group_by: user, src_ip
+  condition: aggregation.count >= 5
+level: high
+falsepositives:
+  - legitimate password mistakes
+tags:
+  - attack.credential_access

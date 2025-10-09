@@ -1,0 +1,22 @@
+title: Excessive TCP SYN Packets (possible SYN flood)
+id: nc-0006
+status: experimental
+description: Detect a high rate of TCP SYN packets to a target without completing connections.
+author: NeuroCrypt
+logsource:
+  product: zeek|network
+detection:
+  selection:
+    proto: tcp
+    tcp_flags: SYN
+  timeframe: 1m
+  aggregation:
+    count: syn_count
+    group_by: dest_ip
+  condition: aggregation.count >= 1000
+level: high
+falsepositives:
+  - legitimate port scans, stress testing
+tags:
+  - dos
+  - network.attack

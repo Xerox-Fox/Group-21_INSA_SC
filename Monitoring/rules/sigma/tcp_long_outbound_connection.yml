@@ -1,0 +1,22 @@
+title: Long-Lived Outbound TCP Connection
+id: nc-0002
+status: experimental
+description: Detect long-duration outbound TCP connections to uncommon external IPs/ports that may indicate reverse shells or C2 channels.
+author: NeuroCrypt
+logsource:
+  product: zeek|network
+detection:
+  selection:
+    direction: outbound
+    proto: tcp
+  timeframe: 5m
+  aggregation:
+    max: duration
+    group_by: dest_ip, dest_port, src_ip
+  condition: aggregation.max >= 300
+level: high
+falsepositives:
+  - legitimate persistent tunnels (VPNs, SSH tunnels)
+tags:
+  - c2
+  - persistence

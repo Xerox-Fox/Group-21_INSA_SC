@@ -1,0 +1,19 @@
+title: Periodic TCP Beaconing to External Host
+id: nc-0004
+status: experimental
+description: Detect periodic outbound TCP connections (beaconing) to the same external host at regular intervals.
+author: NeuroCrypt
+logsource:
+  product: zeek|network
+detection:
+  selection:
+    proto: tcp
+    direction: outbound
+  condition: |
+    count_by_interval(src_ip, dest_ip, 1m) >= 3 and regular_interval(src_ip, dest_ip, window=30m)
+level: high
+falsepositives:
+  - monitoring/heartbeat traffic (whitelist known monitoring IPs)
+tags:
+  - c2.beacon
+  - persistence

@@ -1,0 +1,1 @@
+alert http any any -> any any (msg:"Large HTTP POST to external host - possible exfiltration"; flow:to_server,established; http.method; content:"POST"; threshold: type limit, track by_src, count 1, seconds 1; content_len: > 500000; sid:1000003; rev:1; classtype:data-theft;)

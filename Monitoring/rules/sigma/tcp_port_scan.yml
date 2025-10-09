@@ -1,0 +1,22 @@
+title: TCP Port Scan - Many Destination Ports From Single Source
+id: nc-0001
+status: experimental
+description: Detect many distinct destination ports contacted by a single source IP in a short time window (possible horizontal port scan).
+author: NeuroCrypt
+logsource:
+  product: zeek|network
+  service: conn
+detection:
+  timeframe: 1m
+  selection:
+    proto: tcp
+  aggregation:
+    count_distinct: dest_port
+    group_by: src_ip
+  condition: aggregation.count_distinct >= 20
+level: high
+falsepositives:
+  - network scanning for inventory; vulnerability scanning by admins
+tags:
+  - network.scan
+  - discovery

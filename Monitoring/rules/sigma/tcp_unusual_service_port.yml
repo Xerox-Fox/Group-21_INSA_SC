@@ -1,0 +1,24 @@
+title: Outbound TCP to Unusual High Port
+id: nc-0005
+status: experimental
+description: Detect outbound TCP connections to uncommon or high-risk ports often used by attackers (e.g., 4444, 5555, 6666, custom C2 ports).
+author: NeuroCrypt
+logsource:
+  product: zeek|network
+detection:
+  selection:
+    proto: tcp
+    direction: outbound
+    dest_port:
+      - 4444
+      - 5555
+      - 6666
+      - 1337
+      - 31337
+  condition: selection
+level: medium
+falsepositives:
+  - legitimate services on custom ports; whitelist as necessary
+tags:
+  - command_and_control
+  - network

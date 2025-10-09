@@ -1,0 +1,35 @@
+title: Suspicious Long Outbound Connection
+id: nc-0002
+status: experimental
+description: Detect long-duration outbound TCP connections to uncommon external IPs/ports that may indicate reverse shells or C2 channels.
+author: NeuroCrypt
+logsource:
+  product: zeek|network
+
+detection:
+  selection:
+    direction: outbound
+    proto: tcp
+
+  timeframe: 5m
+
+  aggregation:
+    # Group by these fields when aggregating
+    group_by:
+      - dest_ip
+      - dest_port
+      - src_ip
+    # The numeric field we want to aggregate (conceptual name)
+    metric: duration
+    # Type of aggregation we expect to compute in the SIEM
+    type: max
+
+  # This condition is conceptual: your SIEM should evaluate aggregation.type(metric) >= 300
+  condition: aggregation.type == 'max' and aggregation.metric_value >= 300
+
+level: high
+falsepositives:
+  - legitimate persistent tunnels (VPNs, SSH tunnels)
+tags:
+  - c2
+  - persistence

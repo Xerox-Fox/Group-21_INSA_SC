@@ -1,0 +1,21 @@
+title: Large Outbound TCP Data Transfer
+id: nc-0003
+status: experimental
+description: Detect unusually large outbound TCP data transfers which could indicate data exfiltration.
+author: NeuroCrypt
+logsource:
+  product: zeek|network
+detection:
+  selection:
+    proto: tcp
+    direction: outbound
+  timeframe: 10m
+  aggregation:
+    sum: resp_bytes
+    group_by: src_ip, dest_ip
+  condition: aggregation.sum >= 100000000   # 100 MB
+level: high
+falsepositives:
+  - backups, legitimate large uploads - whitelist known hosts
+tags:
+  - exfiltration

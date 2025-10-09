@@ -1,0 +1,23 @@
+title: SSH Multiple Failed Logins (possible brute-force)
+id: e5f6d3a4-0001
+status: experimental
+description: Detect many failed SSH authentication attempts from a single source within a short time window.
+author: NeuroCrypt
+logsource:
+  product: linux
+  service: sshd
+detection:
+  selection:
+    event:
+      - "Failed password"
+  timeframe: 5m
+  aggregation:
+    count: 10
+    group_by: src_ip
+  condition: aggregation.count >= 10
+level: high
+falsepositives:
+  - legitimate bursts of failed logins during maintenance
+tags:
+  - attack.bruteforce
+  - attack.initial_access

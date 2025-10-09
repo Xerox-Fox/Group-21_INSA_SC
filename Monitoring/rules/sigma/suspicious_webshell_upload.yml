@@ -1,0 +1,24 @@
+title: Suspicious PHP Upload to Webroot (possible webshell upload)
+id: e5f6d3a4-0002
+status: experimental
+description: Detect HTTP POSTs that upload files with PHP/ASPX extensions to webroot paths.
+author: NeuroCrypt
+logsource:
+  product: webserver
+detection:
+  selection:
+    http_method: POST
+    url_path|endswith:
+      - ".php"
+      - ".phtml"
+      - ".aspx"
+    http_request_body|contains:
+      - "base64"
+      - "eval("
+  condition: selection
+level: high
+falsepositives:
+  - legitimate uploads for PHP-based CMS (whitelist by URI/agent)
+tags:
+  - attack.exploitation
+  - attack.web
