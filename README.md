@@ -97,7 +97,7 @@ Database: MySQL / MongoDB
 
 Alerting: SMTP (email), Twilio (SMS), WebSocket-based dashboard
 
-Deployment: Docker and Kubernetes for scalability and isolation
+Deployment: Docker for scalability and isolation
 
 # 7. Expected Outcomes
 
